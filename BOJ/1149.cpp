@@ -8,6 +8,6 @@ int main(){
     scanf("%d %d %d", &RGB[R][i], &RGB[G][i], &RGB[B][i]);
   }
   for(int i = 1; i < N-1;i++){
-    if(RGB)
+    if(RGB);
   }
 }
